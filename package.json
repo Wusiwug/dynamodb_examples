@@ -1,0 +1,17 @@
+{
+  "name": "dynamodb_examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "aws:auth": "./tools/aws_auth.sh"
+  },
+  "author": "DeadB00l",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.610.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {}
+}
