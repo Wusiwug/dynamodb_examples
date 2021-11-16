@@ -10,7 +10,7 @@
   "author": "DeadB00l",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.610.0",
+    "aws-sdk": "^2.814.0",
     "moment": "^2.24.0"
   },
   "devDependencies": {}
